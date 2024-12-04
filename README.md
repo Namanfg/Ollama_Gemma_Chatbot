@@ -1,0 +1,1 @@
+A basic chat application made with Langchain and Gemma from Ollama
